@@ -21,10 +21,10 @@
 	duracion="117 min">
 			<sinopsis desc="El Rey Leónidas y 300 espartanos lucharon hasta la muerte contra Jerjes y su gran ejército persa en la antigua Batalla de las Termópilas. Su valor y sacrificio consiguió que toda Grecia se uniera en contra del enemigo persa, desafiando al destino y fundando las bases de la democracia"/>
 			<sesiones>
-				<sesion dia="lunes" horas="16:30 / 19:30 / 22:00"/>
-				<sesion dia="martes" hora="16:30 / 19:30 / 22:00"/>
-				<sesion dia="miercoles" hora="16:30 / 19:30 / 22:00"/>
-				<sesion dia="jueves" hora="16:30 / 19:30 / 22:00"/>
+				<sesion dia="lunes" horas="16:30"/>
+				<sesion dia="martes" hora="16:30"/>
+				<sesion dia="miercoles" hora="16:30"/>
+				<sesion dia="jueves" hora="16:30"/>
 				<sesion dia="viernes" hora="00:30"/>
 				<sesion dia="sabado" hora="00:30"/>
 				<sesion dia="visp. fest." hora="01:05"/>
