@@ -59,7 +59,7 @@
 
 	<cine nombre="Princesa" direccion="Calle de la Princesa, 3" municipio="Madrid">
 		<pelicula titulo="Las Hermanas Bolena" director="Justin Chadwick" interpretes="Natalie Portman, Scarlett Johansson, Eric Bana, David Morrisey,
-Kristin Scott Thomas, Mark Rylance, Jim Sturgess, Ana Torrent" categoria="Drama">
+Kristin Scott Thomas, Mark Rylance, Jim Sturgess, Ana Torrent" categoria="Drama" duracion="90 min">
 			<sinopsis desc="Para sir Tomás Bolena, sus dos hijas, Ana y su hermana menor María, son dos valiosas piezas de mercancía a las que hay que tutelar con sumo cuidado para que obtengan el máximo provecho social y económico para la familia."/>
 			<sesiones>
 				<sesion dia="jueves" hora="16:05"/>
@@ -68,7 +68,7 @@ Kristin Scott Thomas, Mark Rylance, Jim Sturgess, Ana Torrent" categoria="Drama"
 			</sesiones>
 		</pelicula>
 		<pelicula titulo="Caramel" director="Nadine Labaki" interpretes="Nadine Labaki, Yasmine Al Masri, Joanna Moukarzel, Gisèle Aouad, Adel Karam, 
-Siham Haddad, Aziza Semaan, Fatme Safa, Dimitri Stancofski, Fadia Stella, Ismail Antar" categoria="Drama">
+Siham Haddad, Aziza Semaan, Fatme Safa, Dimitri Stancofski, Fadia Stella, Ismail Antar" categoria="Drama" duracion="120 min">
 			<sinopsis desc="En Beirut, cinco mujeres coinciden habitualmente en un salón de belleza, un microcosmos lleno de colorido y sensualidad en el que varias generaciones se encuentran, hablan y se hacen confidencias."/>
 			<sesiones>
 				<sesion dia="jueves" hora="16:05"/>
@@ -77,7 +77,7 @@ Siham Haddad, Aziza Semaan, Fatme Safa, Dimitri Stancofski, Fadia Stella, Ismail
 			</sesiones>
 		</pelicula>
 		<pelicula titulo="AzulOscuro CasiNegro" director="Daniel Sánche Arévalo" interpretes="Quim Gutiérrez, Marta Etura, Raúl Arévalo, 
-		Antonio de la Torre, Héctor Colomé, Eva Pallarés" categoria="Drama">
+		Antonio de la Torre, Héctor Colomé, Eva Pallarés" categoria="Drama" duracion="100 min">
 			<sinopsis desc="Desde que su padre sufriera un infarto cerebral, Jorge se hace cargo de su trabajo. Al tiempo que trabaja, intenta realizar estudios universitarios y cuidar a su padre. Cuando conoce a Paula, amiga de su hermano, Jorge empieza a sentirse menos responsable y enfrentarse a sus deseos."/>
 			<sesiones>
 				<sesion dia="viernes" hora="00:45"/>
